@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(185, 185, 185);
+}
+
+.forms2 {
+    background-color: white;
+    padding: 25px;
+    width: 40%;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+h1{
+    text-align: center;
+}
+
+#forms1 {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
